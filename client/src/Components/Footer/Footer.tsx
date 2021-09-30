@@ -8,7 +8,6 @@ const Footer = () => {
       <h1 style={{ color: "green", 
                    textAlign: "center", 
                    marginTop: "-50px" }}>
-        Footer information
       </h1>
       <Container>
         <Row>

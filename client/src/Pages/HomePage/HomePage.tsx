@@ -7,10 +7,9 @@ const HomePage = () => {
   return (
     <>
       <div
-        className="background-wrapper"
+        className="background-wrapper-home"
         style={{ backgroundImage: `url(${onlineDr})` }}
       >
-        <div>Home Page</div>;
       </div>
       <CardHolder1 />
       <CardHolder1 />

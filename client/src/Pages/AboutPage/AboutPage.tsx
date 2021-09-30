@@ -1,7 +1,13 @@
 import "./AboutPage.css";
+import us from "../../images/us.png"
 
 const AboutPage = () => {
-  return <div>About Page</div>;
+  return(
+  <div className='background-wrapper-about'
+      style={{ backgroundImage: `url(${us})` }}
+    >
+    </div>
+  );
 };
 
 export default AboutPage;
