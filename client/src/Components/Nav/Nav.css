@@ -1,0 +1,10 @@
+.nav-cont-1 {
+  border: 2px solid green;
+}
+
+.nav-ul-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  list-style-type: none;
+}
